@@ -1,6 +1,6 @@
 import React from "react";
 import Card1 from "./Card1";
-import Service from "../assets/Images/service.png"
+import Service from "../assets/Images/Service.png"
 
 function Services() {
   return (
